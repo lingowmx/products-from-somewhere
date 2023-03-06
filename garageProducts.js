@@ -47,7 +47,11 @@ const threeBike = {
     category: 2,
     price: '$180.00'
 }
+let myGarage;
+export default myGarage = [bicycle, monocycle, scooter, grandmaVan, skaters, threeBike];
 
-export default const myGarage = [bicycle, monocycle, scooter, grandmaVan, skaters, threeBike];
+
+
+
 
 
